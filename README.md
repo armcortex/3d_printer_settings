@@ -1,1 +1,2 @@
-# 3d_printer_settings
+# 3d printer settings
+simplify3D
